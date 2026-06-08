@@ -2,6 +2,7 @@
 # maimai レート計算サポートツール
 
 maimaiでらっくすの **DX Rating（レーティング）** を計算・管理するための、ブラウザだけで動くシングルファイルのWebツールです。
+URLはこちら→　https://rinkaidaigakusei.github.io/maimai-rating-tool/maimai-app.html
 
 スクリーンショットを生成AI（Gemini / ChatGPT / Claude）に読み取らせて曲一覧を取り込み、新曲枠/旧曲枠ごとのレート合計や目標レートまでの進捗を自動計算します。さらに「この曲を伸ばしたら／追加したら、レートはどう変わるか？」を試せるシミュレーション機能も搭載しています。
 
