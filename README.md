@@ -1,0 +1,2 @@
+# maimai-rating-tool
+maimaiのレーティングツールです
